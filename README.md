@@ -1,10 +1,2 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Algorithms: Desafios de Lógica em Python
+O projeto "Algorithms" consiste em uma coleção de desafios e problemas resolvidos em Python, com o intuito de aprimorar a lógica de programação e a capacidade de resolução de problemas. Estes desafios são similares aos whiteboard challenges, oferecendo situações práticas que auxiliam no treinamento para lidar com problemas do dia-a-dia na programação.
